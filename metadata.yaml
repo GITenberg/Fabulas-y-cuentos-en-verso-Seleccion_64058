@@ -1,11 +1,16 @@
 _repo: Fabulas-y-cuentos-en-verso-Seleccion_64058
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   compiler:
     agent_name: Goyri, María
     gutenberg_agent_id: '52734'
     url: http://www.gutenberg.org/2009/agents/52734
+covers:
+- cover_type: archival
+  image_path: 64058-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64058#Fabulas-y-cuentos-en-verso-Seleccion
 gutenberg_issued: '2020-12-16'
 gutenberg_type: Text
 identifiers:
